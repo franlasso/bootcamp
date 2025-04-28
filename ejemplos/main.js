@@ -24,5 +24,10 @@
         console.log(frutas[i])
     }
 
+function sumar(a,b){
+    let resultado = a+b
+    return resultado
+}
 
-    
+let resultadoSuma = sumar(4,5)
+console.log (resultadoSuma)
